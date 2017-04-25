@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sussing out Jekyll 
+title: Frist Blog Post
 ---
 
 Hello!!!!
