@@ -1,8 +1,8 @@
 Now Play This was full of incredible controllers and this is what I would like to influence my project from now on.
 
-The work of Katie Marshall and Alex Johansson is so incredible. It works beutifully as a two player game, where each player are totally reliant on the other for a) information and b)action. The syringe controller was very satisfying to use and the the body was CNC'd + painted incredibly. The combination of this controller and body, the action of healing the body with the syringe, was very immersive and definintely one of the best controllers I saw that day.
+The work of Katie Marshall and Alex Johansson is so incredible. It works beutifully as a two player game as each player is totally reliant on the other for a) information and b)action. The syringe controller was very satisfying to use and the the body was CNC'd + painted incredibly. The combination of this controller and body, the action of healing the body with the syringe, was very immersive and definintely one of the best controllers I saw that day.
 
-I would like to create a co-op game, where **communication** is necessary to win, a big part of the exciting and fun aspect of the game and a way to create a dialogue between two strangers. **2 Player + DIY Controller + Screen**
+I would like to create a co-op game, where **communication** is necessary to win and a big part of the excitement and fun. It also creates a new dialogue between two, in my case, strangers. **2 Player + DIY Controller + Screen**
 
 ![alt text](https://annaclow.github.io/blogImages/vaccination.png "Vaccination")
 [Vaccination](https://alexvscoding.itch.io/vaccination)
