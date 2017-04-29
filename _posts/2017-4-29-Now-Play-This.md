@@ -4,11 +4,10 @@ The work of Katie Marshall and Alex Johansson is so incredible. It works beutifu
 
 _I would like to create a co-op game, where **communication** is necessary to win, a big part of the exciting and fun aspect of the game and a way to create a dialogue between two strangers. **2 Player + DIY Controller + Screen_**
 
-[Vaccination](https://alexvscoding.itch.io/vaccination)
 ![alt text](https://annaclow.github.io/blogImages/vaccination.png "Vaccination")
+[Vaccination](https://alexvscoding.itch.io/vaccination)
 
 Another piece that really struck a creative chord in me was the work of Jenny Jiao Hsia
 
-[Morning Makeup Madness](https://q_dork.itch.io/morning-makeup-madness)
 ![alt text](https://annaclow.github.io/blogImages/JennyJsia.png "Morning Makeup Madness")
-
+[Morning Makeup Madness](https://q_dork.itch.io/morning-makeup-madness)
