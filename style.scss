@@ -111,9 +111,10 @@ img {
   height: auto;
 }
 
-div.entry img {
-max-width:500px;	
+.entry img {
+max-width: 500px;	
 }
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
