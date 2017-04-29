@@ -10,5 +10,5 @@ _I would like to create a co-op game, where **communication** is necessary to wi
 Another piece that really struck a creative chord in me was the work of Jenny Jiao Hsia
 
 [Morning Makeup Madness- Jenny Jsia] (https://q_dork.itch.io/morning-makeup-madness)
-![alt text](https://annaclow.github.io/blogImages/JennyJsia.png "Vaccination")
+![alt text](https://annaclow.github.io/blogImages/JennyJsia.png "Morning Makeup Madness")
 
