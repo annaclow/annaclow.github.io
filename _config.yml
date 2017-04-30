@@ -20,7 +20,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: http://gitlab.doc.gold.ac.uk/aclow049/3YEAR_PROJECT
+  github: 
   instagram:
   linkedin:
   pinterest:
@@ -40,7 +40,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: http://gitlab.doc.gold.ac.uk/aclow049/3YEAR_PROJECT
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
