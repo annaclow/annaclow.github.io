@@ -82,4 +82,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-  - [vendor]
+ 
+ exclude: [vendor]
