@@ -21,7 +21,7 @@ title: A Touch of Code, and other research
 
 <iframe src="https://player.vimeo.com/video/10458491" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-**Felix Vorreiter**'s type printing machine is amazing, the exposed circuitry and slashed typography produced looks beautiful and guerilla. Again, this is not really a controller for a resulting game as much as it is a tool. The definition of a tool is 'A device or implement, especially one held in the hand, used to carry out a particular function.' and often in games you control a virtual tool with a controller i.e a sword, fishing rod, gun etc.
+**Felix Vorreiter**'s [type printing machine](https://www.behance.net/gallery/406136/txtBOMBER) is amazing, the exposed circuitry and slashed typography produced looks beautiful and guerilla. Again, this is not really a controller for a resulting game as much as it is a tool. The definition of a tool is 'A device or implement, especially one held in the hand, used to carry out a particular function.' and often in games you control a virtual tool with a controller i.e a sword, fishing rod, gun etc.
 
 ![txtBOMBER](https://mir-s3-cdn-cf.behance.net/project_modules/disp/9857702152501.5601255140579.jpg) 
 
