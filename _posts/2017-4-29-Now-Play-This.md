@@ -1,3 +1,8 @@
+---
+layout: post
+title: NowPlayThis, Vaccination & Morning Makeup Madness
+---
+
 Now Play This was full of incredible controllers and it has encouraged me to look further into the subversive and immersive nature of alternate controllers.
 [Now Play This](http://nowplaythis.net/2016-sunday/)
 
