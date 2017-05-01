@@ -3,7 +3,9 @@ layout: post
 title: Shake That Button
 ---
 
-[Shake That Button](http://shakethatbutton.com/about-alternative-controllers/) is a website devoted to documenting alternative controllers. They define alternative controllers as **Custom DIY Controllers**, **Hijacked Traditional Controllers**, **Arcade Cabinets**, **Installations**, **Performances** and **Playable at home** and document work that allow 'us [to] play differently, not only with our fingers but with our whole body, to make us experience new feelings regular controllers can't provide'. Another aspect of the alternative controller that STB highlights is how access is limited to public spaces like festivals, museums etc. and how important this is in rewrite the 'traditional settings' of a video game. 
+[Shake That Button](http://shakethatbutton.com/about-alternative-controllers/) is a website devoted to documenting alternative controllers. 
+
+They define alternative controllers as **Custom DIY Controllers**, **Hijacked Traditional Controllers**, **Arcade Cabinets**, **Installations**, **Performances** and **Playable at home** and document work that allow 'us [to] play differently, not only with our fingers but with our whole body, to make us experience new feelings regular controllers can't provide'. Another aspect of the alternative controller that STB highlights is how access is limited to public spaces like festivals, museums etc. and how important this is in rewrite the 'traditional settings' of a video game. 
 
 [Sneaky Cactus](http://shakethatbutton.com/sneaky-cactus/) is a work by Nick Crockett that uses cacti as a controller, where the action within the game (short sudden jolts of movement) match the users interaction with the cacti. **2 Player**
 
