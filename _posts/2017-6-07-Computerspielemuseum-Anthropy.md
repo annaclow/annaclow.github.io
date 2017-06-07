@@ -12,7 +12,7 @@ I was nervous, even afraid, to play PainStation way before we actually put our h
 Mary Flanagan's Giant Joystick played with the conventional interface associated with early arcade games, specifically the 1980 Atari
 2600 interface, allowing for the user and a friend to work together with their whole bodies to play games they already knew: redefining the experience expected from 'Pac-Man'.
 
-[!alt text](https://annaclow.github.io/blogImages/giant_joystick.png "Giant Joystick")
+[!alt text](https://annaclow.github.io/blogImages/joystick.png "Giant Joystick")
 
 ['Game/Play' Exhibition](http://blog.game-play.org.uk/files/GamePlay_Final.pdf) Christian Paul writes that Giant Joystick 'requires players to collaboratively ‘perform’ their movements in order to engage with the game and thus makes them acknowledge not only the notion of shared space but also the necessity for shared strategies and approaches in order to pursue their goal'. This idea of shared, immediate and physical strategies is very important in an age where collaborative play usually happens through interfaces spread around the world. 
 
