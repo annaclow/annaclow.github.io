@@ -19,3 +19,4 @@ Mary Flanagan's Giant Joystick played with the conventional interface associated
 'Rather than treating the joystick as mere access point to the ‘other’ of the virtual world on a screen, the project highlights the joystick’s role in and connection to the physical world and the social nature of play.'
 
 [Giant Joystick](http://maryflanagan.com/work/giant-joystick/)
+
