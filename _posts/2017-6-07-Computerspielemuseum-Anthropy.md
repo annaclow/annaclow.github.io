@@ -20,3 +20,6 @@ Mary Flanagan's Giant Joystick played with the conventional interface associated
 
 [Giant Joystick](http://maryflanagan.com/work/giant-joystick/)
 
+Anna Anthropy
+
+[Lesbian Spider-Queens Of Mars](http://www.adultswim.com/games/web/lesbian-spider-queens-of-mars) is an 8-bit aesthetic flash game about submission/ domination; which follows a similar aesthetic/ game play to Pac Man however, you are the one after the ghosts/slaves. It challenges the nostalgic perception of PacMan to introduce ideas about/ celebration of queer culture.
