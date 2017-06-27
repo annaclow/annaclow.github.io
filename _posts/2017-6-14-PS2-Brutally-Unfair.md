@@ -4,7 +4,7 @@ title: Scaled PS2 Controller
 ---
 My plan to create a controller that allows many people to play as a single player, and through this explore the benefits of and new experiences found through collaborative play. I initially planned to create a scaled ps2 controller, as it is very familiar to me and generationally makes sense. However, through trying to hack the controller, and moving through the games, I began to realise that for time's sake it didn't really make sense + start up costs means using my computer would be easier.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aAOplz5ri5k?ecver=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aAOplz5ri5k?ecver=1" frameborder="0"></iframe>
 
 Here's some collaborative play that uses a single button on a normal xbox controller. I do not want to create an experience like this; although this is very engaging and successfully collaborative in people working against each other, you are not creating a single player and working together towards exactly the same goal, which I believe will create a very different experience of gaming.
 
