@@ -3,30 +3,24 @@ layout: post
 title: UnoJoy & Steam & Collaborative Play!
 ---
 
-//
-Literature review update!!///////////
-https://docs.google.com/document/d/1eVmrReg_X2ZQlErALOLcNEbK5MymD7_M7DrvCCX9QjU/edit?usp=sharing
+[Unojoy](https://github.com/AlanChatham/UnoJoy) allows you to turn your arduino (i'm using an Uno as we were given them in Physical Computing) into a USB controller, which as it turns out works with steam !!
 
-//
-http://www.instructables.com/id/Making-a-USB-Game-Controller/
-using arduino uno as HID
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FqfR1u44Pnk?ecver=1" frameborder="0" allowfullscreen></iframe>
+First you upload code which allows the arduino pins to act as different buttons of the controller;The way the arduino interacts as a controller is through sending different pins 0, as they are all pulled up, to show which button/joystick is being used. 
 
-**2 Player + DIY Controller + Screen**
-![alt text](https://annaclow.github.io/blogImages/vaccination.png "Vaccination")
-[Vaccination](https://alexvscoding.itch.io/vaccination)
+```java
+//when pin 8 is connected to ground the arduino registers the controller input
+ controllerData.dpadUpOn = !digitalRead(8);
+```
 
-///
-Starting a gant plan !!!!
-https://docs.google.com/spreadsheets/d/1wE6kT9NBDbhqhjkCggUiSzHhHiVUJUgV2bq9fsd3Tp0/edit?usp=sharing
+But! You have to update the firmware on your arduino, which is done through:
+1. Installing DFU  programming software
+2. Bridge the reset pin & ground pin on the Ardunio which resets ATmega16U2 chip
+3. Use UnoJoy's shell script to reprogram the Arduino
 
-////
+Then it's recognised as a controller by your computer !! Thanks Alan Chatham!!
 
+![altText](https://github.com/annaclow/annaclow.github.io/blob/master/blogImages/SteamUnoJoy.png)
 
-https://specializationisoverrated.com/
-Anthony Campusano
---old skl controller working with steam games
-
-how do i do it???
-
-Arduino joystick !!
-https://www.youtube.com/watch?v=tUdNZUEyT1U
+This video has been super useful is calibrating some of the paramaters, building soon!!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GrO8ZmxbOyI?ecver=1" frameborder="0" allowfullscreen></iframe>
