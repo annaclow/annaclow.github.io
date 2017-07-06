@@ -20,7 +20,7 @@ But! You have to update the firmware on your arduino, which is done through:
 
 Then it's recognised as a controller by your computer !! Thanks Alan Chatham!!
 
-![altText](https://github.com/annaclow/annaclow.github.io/blob/master/blogImages/SteamUnoJoy.png)
+![altText](https://annaclow.github.io/blogImages/SteamUnoJoy.png)
 
 This video has been super useful is calibrating some of the paramaters, building soon!!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GrO8ZmxbOyI?ecver=1" frameborder="0" allowfullscreen></iframe>
