@@ -2,8 +2,9 @@
 layout: post
 title: Games, Design and Play and Looking critically at Candyland
 ---
-Games, Design and Play outlines the fundamental elements of play experience:
 
+![alt text](https://img.itch.zone/aW1hZ2UvMTA0NzYvMzE1MjkuZ2lm/original/LbFznM.gif)
+Games, Design and Play outlines the fundamental elements of play experience:
 1. Actions
 2. Rules
 3. Goals
@@ -46,7 +47,6 @@ Candyland: you click on the coloured path to bring about text information, which
 
 Curtain: Pick a virtual card with a colour, associate colours with objects in the room and now have a non-linear story line that uses the colour picked to evoke the tone of the current time period. i.e the first part of curtain is mostly red/blue hues suggesting a loneliness and sadness and this is further emphasized when the colours shift to pastel, once out of the abusive relationship.
 
-![alt text](https://img.itch.zone/aW1hZ2UvMTA0NzYvMzE1MjkuZ2lm/original/LbFznM.gif)
 
 A blue object could bring up text from a darker period of time where as a yellow object would perhaps bring around text from a later period time, post-relationship. This would shift the linearity of the game and disrupt the playspace hugely, create a timeline that is based upon the order of cards and objects selected. It would be much harder to understand the story and truly experience the claustrophobic and abusive nature of the story.  
 
