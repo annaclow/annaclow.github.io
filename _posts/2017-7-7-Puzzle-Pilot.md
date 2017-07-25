@@ -8,7 +8,7 @@ Pilot Testing:
 1. Dialogue will be continuous
 2. Elements of Leadership (could be influenced by me playing)
 3. Time Based element forces people to learn quickly and constantly communicate --> [Trappy Mine](https://roguenoodle.itch.io/trappy-mine) has a rising platform that encourages quick actions 
-4. People need to udnerstand button and game inputs before hand although lack of also leeds to a fun period of people finding their 'feet'
+4. People need to understand game inputs before hand although lack of also leeds to a fun period of people finding their 'feet'
 4.1 Should make an introductory Unity splash page that shows the user the controls
 
 [Trappy Mine](https://roguenoodle.itch.io/trappy-mine) is a game I found, recommded for puzzle platformer, from [itch.io](https://itch.io/) which is a great place to find indie games, that tend to be shorter than commercial games. I played this with a friend and will be doing further pilot testing before creating the full controller.
