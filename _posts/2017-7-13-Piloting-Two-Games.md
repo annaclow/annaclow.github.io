@@ -22,7 +22,7 @@ After recieving feedback that Trappy Mine was 'quite hard' I decided not to test
 8. Mine/ Down
 
 Pilot Testing:
-#2: 2 players, Birdsketball
+#2: 3 players, Birdsketball
 * 'What am I doing' 'Let's stop a sec' need to ensure that everyone knows what the buttons do
 * screaming, laughing, blaming 
 * 'Don't press a sec' leadership comes up again; relates to amount of time gaming 
