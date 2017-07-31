@@ -18,6 +18,8 @@ After recieving feedback that Trappy Mine was 'quite hard' I decided not to test
 4. Jump 
 5. Look Down
 6. Mine
+7. Mine/ Up
+8. Mine/ Down
 
 Pilot Testing:
 #2: 2 players, Birdsketball
