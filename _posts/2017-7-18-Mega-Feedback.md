@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Switching to ArduinoMega and adding Feedback 
+title: Adding Feeback
 ---
 
-from inital user testing need to add some visual feedback of who's pressing what 
+Following the feedback from my pilot testing the buttons I build need to include visual feedback and visual instructions. 
 
-feedback of LEDs required more pins to output 
